@@ -9,6 +9,7 @@ public class CartPage {
 
         String nameD1 = "cart D1";
         System.out.println(nameD1);
+        System.out.println("new changes");
 
     }
     
