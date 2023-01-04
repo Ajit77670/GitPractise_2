@@ -1,6 +1,4 @@
-
 package Demo2;
-
 
 public class java {
     
@@ -12,5 +10,4 @@ public class java {
     int age =12;
     int sal=15;
     }
-    
 }
