@@ -14,8 +14,7 @@ public class CartPage2 {
         
         System.out.println(strDev2);
         
-        
-    }
-    
-}
-}    
+    }}}  
+
+
+
